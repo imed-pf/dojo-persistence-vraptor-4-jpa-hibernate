@@ -5,8 +5,8 @@ Dependências
 -------------
 
 * [Java 8] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* WildFly 8.2 (JBoss AS Tools)
-* Ivy (IvyDe)
+* [WildFly 8.2] (http://download.jboss.org/wildfly/8.2.0.Final/wildfly-8.2.0.Final.tar.gz) (JBoss AS Tools)
+* [Ivy - IvyDe] (https://ant.apache.org/ivy/ivyde)
 
 Instalação
 -----------
@@ -14,7 +14,7 @@ Instalação
 Baixe o projeto utilizando a linha de comando.
 
 ```
-git clone https://github.com/gelias/vraptor-template.git
+git clone https://github.com/imed-pf/dojo-persistence-vraptor-4-jpa-hibernate.git
 
 ```
 Importe o projeto em seu eclipse, e instale a versão mais recente do plugin JBoss AS Tools.

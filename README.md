@@ -7,6 +7,7 @@ Dependências
 * [Java 8] (http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * [WildFly 8.2] (http://download.jboss.org/wildfly/8.2.0.Final/wildfly-8.2.0.Final.tar.gz) (JBoss AS Tools)
 * [Ivy - IvyDe] (https://ant.apache.org/ivy/ivyde)
+* [JBoss Tools] (http://tools.jboss.org/downloads/installation.html)
 
 Instalação
 -----------
